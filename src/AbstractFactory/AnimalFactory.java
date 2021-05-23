@@ -6,11 +6,11 @@ public class AnimalFactory implements IAbstractFactory<IAnimal> {
 	public IAnimal create(String animalType) {
 		// TODO Auto-generated method stub
 
-		if (animalType.equals("Duck")) {
+		if (animalType.equals("Pato")) {
 			return new Duck();
 		}
 		
-		throw new Error("Animal Type Invalid");
+		throw new Error("Tipo de Animal Inválido.");
 
 	}
 
