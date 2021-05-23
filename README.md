@@ -8,5 +8,5 @@ Pedrões de Projetos
 4. [Method Factory](/src/MethodFactory)
 5. [Abstract Factory](/src/AbstractFactory)
 6. [Adapter](/src/Adapter)
-7. Observer
-8. Facade
+7. [Observer](/src/Observer)
+8. [Facade](/src/Facade)
