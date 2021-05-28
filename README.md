@@ -53,3 +53,12 @@ Foi passado uma atividade para realizar um projeto utilizando o padrão de proje
 O projeto tinha como ideia decorar os impostos.
 
 [Projeto](/src/TaxDecorator)
+
+---
+
+### Questionario sobre SOA e SOAP
+
+Foi dado um questionário sobre o protocolo SOA é SOAP na questão 4 foi pedido para implementar 
+um cliente para cosumir um WebService utilizando WSL.
+
+[Projeto](https://github.com/ivanantunes/java-client-correios)
