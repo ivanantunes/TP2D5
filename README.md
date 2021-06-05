@@ -62,3 +62,12 @@ Foi dado um questionário sobre o protocolo SOA é SOAP na questão 4 foi pedido
 um cliente para cosumir um WebService utilizando WSL.
 
 [Projeto](https://github.com/ivanantunes/java-client-correios)
+
+---
+
+### Prova sobre Padrões de Projeto
+
+Foi dado uma prova de 10 questões sobre padrões de projeto. Algumas questões tinham que implmentar o código.
+
+[Projeto](https://github.com/ivanantunes/TP2D5-PROVA)
+
