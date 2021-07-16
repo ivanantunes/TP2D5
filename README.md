@@ -71,3 +71,20 @@ Foi dado uma prova de 10 questões sobre padrões de projeto. Algumas questões 
 
 [Projeto](https://github.com/ivanantunes/TP2D5-PROVA)
 
+---
+
+### Projeto do Semestre - Caixa Eletronico
+
+Foi solicitado a criação de um caixa eletronico utilizando tudo que foi visto em aula, realizando a backend em Java 
+e a frontend na linguagem desejada.
+
+#### Autores
+
+- [Ivan Antunes](https://github.com/ivanantunes)
+- [Gabriel Alves](https://github.com/gbrextreme)
+- [Lucas Zaia](https://github.com/LucasZaia)
+
+#### PokeMachine
+
+- [Projeto-Frontend](https://github.com/ivanantunes/PokeMachineAPP)
+- [Projeto-Backend](https://github.com/ivanantunes/PokeMachineAPI)
